@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="23L-pN-5jq">
+                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZZu-fU-AMe">
+                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="MINDS">
+                                        <attributes>
+                                            <color key="NSColor" red="0.16862745098039217" green="0.16078431372549018" blue="0.40784313725490196" alpha="1" colorSpace="calibratedRGB"/>
+                                            <font key="NSFont" size="48" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="51" name=".AppleSystemUIFont"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment content="Unlimited">
+                                        <attributes>
+                                            <color key="NSColor" red="0.16862745098039217" green="0.16078431372549018" blue="0.40784313725490196" alpha="1" colorSpace="calibratedRGB"/>
+                                            <font key="NSFont" size="51" name="HelveticaNeue-Thin"/>
+                                            <font key="NSOriginalFont" size="51" name="HelveticaNeue-Thin"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="23L-pN-5jq" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" id="61J-sF-MMb"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="23L-pN-5jq" secondAttribute="bottom" id="DN8-Zd-OmO"/>
+                            <constraint firstAttribute="trailing" secondItem="23L-pN-5jq" secondAttribute="trailing" id="FPs-yi-IS6"/>
+                            <constraint firstAttribute="trailing" secondItem="ZZu-fU-AMe" secondAttribute="trailing" id="JjE-wT-big"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="ZZu-fU-AMe" secondAttribute="bottom" id="Laf-tw-pV8"/>
+                            <constraint firstItem="ZZu-fU-AMe" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="NRI-32-UqO"/>
+                            <constraint firstItem="ZZu-fU-AMe" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" id="bWx-du-pnT"/>
+                            <constraint firstItem="23L-pN-5jq" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="kD5-my-jgM"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="359" y="104"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="621" height="1104"/>
+    </resources>
+</document>

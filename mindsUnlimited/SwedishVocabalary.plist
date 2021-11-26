@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title.rate_now</key>
+	<string>Betygsätt!</string>
+	<key>ratting_alert.title.give_rattings</key>
+	<string>Vi hoppas du gillar appen!</string>
+	<key>subtitlle.give_rattings</key>
+	<string>Har du lust att ge oss ett betyg?</string>
+	<key>notification.happy_msg</key>
+	<string>Tacka dig själv för att du har mediterat idag. Bra gjort!</string>
+	<key>inapp.purchase_welcome_pop.desiciption_when_not_login</key>
+	<string>Tack för ditt köp, för att använda appen i sin helhet behöver du vara inloggad</string>
+	<key>inapp.purchase_welcome_pop.desiciption_when_login</key>
+	<string>Tack för ditt köp, du kan nu använda appen i sin helhet</string>
+	<key>inapp.purchase_welcome_pop.title</key>
+	<string>Välkommen till Minds Unlimited meditation</string>
+	<key>download.sound.choice.female_voice</key>
+	<string>Kvinnlig röst</string>
+	<key>download.sound.choice.male_voice</key>
+	<string>Manlig röst</string>
+	<key>group_view.color_title.friend</key>
+	<string>Vän</string>
+	<key>group_view.color_title.pending_friend</key>
+	<string>Vänförfrågan</string>
+	<key>group_view.color_title.not_friend</key>
+	<string>Inte vänner</string>
+	<key>reminder.snooze_clicked</key>
+	<string>En påminnelse skickas om 5 minuter</string>
+	<key>groupview.title.premium</key>
+	<string>Premium</string>
+	<key>groupview.popup.group_expired_title</key>
+	<string>Grupp meddelande</string>
+	<key>notification.label.on</key>
+	<string>På</string>
+	<key>notification.label.yesterday_yat</key>
+	<string>Igår vid</string>
+	<key>notification.label.today_at</key>
+	<string>Idag vid</string>
+	<key>popup.open_url</key>
+	<string>Öppna URL</string>
+	<key>notification.label_no_notificaion</key>
+	<string>Inga notiser</string>
+	<key>notification.header.history</key>
+	<string>Historik</string>
+	<key>notification.header.new</key>
+	<string>Ny</string>
+	<key>sidemenu.title.notification</key>
+	<string>Notiser</string>
+	<key>reminder_settings.navigation.title</key>
+	<string>Påminnelse inställningar</string>
+	<key>inapp.popup.term_condition</key>
+	<string>Terms of use/Privacy policy</string>
+	<key>inapp.popup.access_description</key>
+	<string>Du får då tillgång till följande funktioner:</string>
+	<key>inapp.popup.whould_you_like_to</key>
+	<string>Vill du köpa en prenumeration för</string>
+	<key>inapp.popup.month</key>
+	<string>månad</string>
+	<key>inapp.popup.button_subscription</key>
+	<string>Köp prenumeration</string>
+	<key>inapp.popup.bottom_label_cancel_anytime</key>
+	<string>automatiskt förnyad prenumeration som du kan avsluta när du vill</string>
+	<key>inapp.popup.statistic_description</key>
+	<string>Statistik blir tillgänglig där du kan följa din, gruppens och dina vänners mediterande om du tillåter det.</string>
+	<key>inapp.popup.meditation_description</key>
+	<string>Alla meditationer är tillgängliga</string>
+	<key>inapp.popup.reminder_description</key>
+	<string>Påminnelser kan ställas in så att du inte missar dina meditationer, samt att du kan ställa in din dagliga meddelanden.</string>
+	<key>inapp.popup.reminders</key>
+	<string>Påminnelser</string>
+	<key>inapp.popup.meditations</key>
+	<string>Meditationer</string>
+	<key>inapp.popup.title_full_app_access</key>
+	<string>Full app tillgång</string>
+	<key>inapp.popup.button_not_now</key>
+	<string>Inte nu</string>
+	<key>daily_notification.popup.title</key>
+	<string>Meditationspåminnelse</string>
+	<key>groupview.popup.group_expired_desc</key>
+	<string>Den här gruppen ger inte tillgång till låst innehåll. För att få tillgång till låst innehåll behöver du köpa en prenumeration.</string>
+	<key>groupview.popup.get_subcription</key>
+	<string>skaffa en prenumeration</string>
+	<key>meditationview.popup.title.select_gender</key>
+	<string>Manlig eller kvinnlig röst
+Välj den röst du föredrar.</string>
+	<key>profile.popup.select_option</key>
+	<string>välj ett alternativ</string>
+	<key>general_no</key>
+	<string>NEJ</string>
+	<key>general_yes</key>
+	<string>JA</string>
+	<key>loading_hud_please_wait</key>
+	<string>Var god vänta...</string>
+	<key>loading_hud_purchasing</key>
+	<string>köp av...</string>
+	<key>inapp.loading_hud.restoring</key>
+	<string>återställa...</string>
+	<key>groupview.label.no_user_in_group</key>
+	<string>Inga andra användare i denna grupp</string>
+	<key>groupview.label.group_expired</key>
+	<string>Grupp inaktiv</string>
+	<key>done</key>
+	<string>Gjort</string>
+	<key>inapp.popup.valid_sub</key>
+	<string>Giltig prenumeration</string>
+	<key>register_and_login.popup.logout</key>
+	<string>Är du säker på att du vill logga ut?</string>
+	<key>groupview.popup.leave_group_desc</key>
+	<string>Är du säker på att du vill lämna gruppen?</string>
+	<key>groupview.popup.from_friend</key>
+	<string>från dina vänner?</string>
+	<key>groupview.popup.sure_to_remove</key>
+	<string>Är du säker på att du vill ta bort</string>
+	<key>groupview.label.no_friend_added</key>
+	<string>Inga vänner tillagda än</string>
+	<key>inapp.popup.subscription_restored</key>
+	<string>Prenumerationen har återställts</string>
+	<key>inapp.popup.subscription_expired</key>
+	<string>Prenumerationen har gått ut</string>
+	<key>inapp.popup.invalid_sub</key>
+	<string>Ogiltig prenumeration</string>
+	<key>inapp.manage_subscription</key>
+	<string>Hantera prenumeration</string>
+	<key>inapp.restore_subscription</key>
+	<string>Återställa prenumeration</string>
+	<key>fri</key>
+	<string>FRE</string>
+	<key>all</key>
+	<string>ALLA</string>
+	<key>sun</key>
+	<string>SÖN</string>
+	<key>sat</key>
+	<string>LÖR</string>
+	<key>mon</key>
+	<string>MÅN</string>
+	<key>tue</key>
+	<string>TIS</string>
+	<key>wed</key>
+	<string>ONS</string>
+	<key>thu</key>
+	<string>TOR</string>
+	<key>subscribe</key>
+	<string>prenumerera</string>
+	<key>profile.button.title.saved</key>
+	<string>Sparad</string>
+	<key>statistic.label.times</key>
+	<string>gånger</string>
+	<key>statistic.label.day</key>
+	<string>dag</string>
+	<key>statistic.label.average</key>
+	<string>Genomsnitt</string>
+	<key>statistic.label.total</key>
+	<string>totalt</string>
+	<key>statistic.label.week</key>
+	<string>Vecka</string>
+	<key>statistic.label.me</key>
+	<string>jag</string>
+	<key>general_ok</key>
+	<string>ok</string>
+	<key>friend_request.popup.title.check_profile</key>
+	<string>Titta på profil</string>
+	<key>friend_request.popup.title.request_reminder</key>
+	<string>Vänförfrågelse påminnelse</string>
+	<key>friend_request.popup.desciption</key>
+	<string>har skickat en vänförfrågan, skulle du vilja se den profilen?</string>
+	<key>friend_request.popup.new_request_desciption</key>
+	<string>du har en ny vänförfrågan, skulle du vilja se den profilen?</string>
+	<key>group.popup.decline</key>
+	<string>neka</string>
+	<key>popup.title_new_friend_request</key>
+	<string>Ny vänförfrågan</string>
+	<key>group.popup.accept</key>
+	<string>acceptera</string>
+	<key>groupview.member_details.button.title</key>
+	<string>Påminnelse skickad</string>
+	<key>groupview.member_details.button.send_reminder</key>
+	<string>Skicka påminnelse</string>
+	<key>groupview.member_details.button.pending_request</key>
+	<string>Väntande vänförfrågan</string>
+	<key>groupview.member_details.button.remove_friend</key>
+	<string>Ta bort vän</string>
+	<key>groupview.member_details.button.send_request</key>
+	<string>Skicka vänförfrågan</string>
+	<key>groupview.label.no_additional_information</key>
+	<string>Ingen ytterligare information</string>
+	<key>groupview.member_details.label.no_email_shared</key>
+	<string>Email delas inte</string>
+	<key>profile.popup.can_not_remove_image</key>
+	<string>Du kan inte ta bort din profilbild när du är i en grupp</string>
+	<key>groupview.group_code_invalid</key>
+	<string>Gruppkod är ogiltig</string>
+	<key>groupview.button.change_group</key>
+	<string>Ändra grupp</string>
+	<key>groupview.general.leave_group</key>
+	<string>Lämna grupp</string>
+	<key>general_friends</key>
+	<string>vänner</string>
+	<key>general_group</key>
+	<string>grupp</string>
+	<key>register_and_login.code_received</key>
+	<string>Koden mottagen</string>
+	<key>reminder_settings.label.day_ends</key>
+	<string>DAGEN SLUTAR</string>
+	<key>meditationview.label.downloaded</key>
+	<string>nedladdade</string>
+	<key>about_us.share</key>
+	<string>Dela</string>
+	<key>groupview.label.no_group_joined</key>
+	<string>Du har inte gått med i en grupp än</string>
+	<key>general.title.statistics</key>
+	<string>statistik</string>
+	<key>reminder_settings.label.saving</key>
+	<string>sparar....</string>
+	<key>title.about_us</key>
+	<string>OM</string>
+	<key>mediationview.label.no_downloaded</key>
+	<string>Inga meditationer nedladdade</string>
+	<key>register_and_login.label.enter_recover_code</key>
+	<string>Återställningskod</string>
+	<key>title.profile</key>
+	<string>profil</string>
+	<key>profile.popup.pick_from_album</key>
+	<string>Välj från album</string>
+	<key>title.log_out</key>
+	<string>LOGGA UT</string>
+	<key>register_and_login.label.enter_email_pass</key>
+	<string>Var god ange din email och lösenord</string>
+	<key>meditationview.popup.title</key>
+	<string>gör operation</string>
+	<key>purchase</key>
+	<string>köp</string>
+	<key>groupview.label.set_image</key>
+	<string>Ändra profilbild</string>
+	<key>general.unknown_error_occured</key>
+	<string>Ett fel uppstod, försök igen</string>
+	<key>register_and_login.button_title.create_account</key>
+	<string>Skapa konto</string>
+	<key>groupview.textfiled.placeholder.enter_code</key>
+	<string>kod</string>
+	<key>general_deep_breath</key>
+	<string>5 DJUPA ANDETAG</string>
+	<key>profile.textview.enter.additional_info</key>
+	<string>Ytterligare information som du vill dela</string>
+	<key>title.register</key>
+	<string>Registrera</string>
+	<key>general.title.name_alias</key>
+	<string>Namn/Alias</string>
+	<key>friend_request.popup.later</key>
+	<string>Senare</string>
+	<key>meditationview.label.download_aduo_to_play</key>
+	<string>För att meditera måste du åtminstonde ha en meditation</string>
+	<key>general.snooze</key>
+	<string>snooze</string>
+	<key>title.home</key>
+	<string>HEM</string>
+	<key>profile.popup.option.capture</key>
+	<string>Ta en bild</string>
+	<key>register_and_login.label.enter_email</key>
+	<string>Var god ange giltig email</string>
+	<key>meditationview.label.join_group</key>
+	<string>Gå med i gruppen</string>
+	<key>register_and_login.popup.loged_in_as</key>
+	<string>INLOGGAD SOM</string>
+	<key>title.language</key>
+	<string>språk</string>
+	<key>general.no_connection</key>
+	<string>Kontrollera internetanslutningen</string>
+	<key>register_and_login.button.remember_me</key>
+	<string>Kom ihåg mig</string>
+	<key>register_and_login.label.fb_data_err</key>
+	<string>Kan inte hämta information från facebook</string>
+	<key>meditationview.label.downloads</key>
+	<string>Ladda ner</string>
+	<key>general.meditate</key>
+	<string>MEDITERA</string>
+	<key>register_and_login.label.password_changed</key>
+	<string>Lösenordet har ändrats</string>
+	<key>profile.button.title.save</key>
+	<string>spara</string>
+	<key>general.daily_msg</key>
+	<string>Dagligt meddelande</string>
+	<key>logo_title.unlimited</key>
+	<string>UNLIMITED</string>
+	<key>register_and_login.recover_code_sent</key>
+	<string>Återställningskod har skickats till din email</string>
+	<key>register_and_login.button.ttile.login</key>
+	<string>logga in</string>
+	<key>dailymsg.popup.title</key>
+	<string>Meddelande</string>
+	<key>about_us.label.follow</key>
+	<string>följa</string>
+	<key>general.textfield.enter_name</key>
+	<string>Ange namn eller alias</string>
+	<key>medtationview.popup.removeitem.are_you_sure</key>
+	<string>Är du säker på att du vill ta bort denna meditation?</string>
+	<key>select_opt_to</key>
+	<string>Välj ett kön för att</string>
+	<key>register_and_login.label.enter_recovery_code</key>
+	<string>Var god ange återställningskoden</string>
+	<key>register_and_login.label.send_recovery</key>
+	<string>Skicka återställningskod</string>
+	<key>meditationview.label.no_downloads</key>
+	<string>Inga nedladdningar tillgängliga </string>
+	<key>meditationview.popup.download</key>
+	<string>ladda ner</string>
+	<key>general.woman</key>
+	<string>Kvinna</string>
+	<key>register_and_login.all_field_compolsury</key>
+	<string>Alla fält är obligatoriska</string>
+	<key>logo_title.minds</key>
+	<string>Minds</string>
+	<key>profileview.profile_image</key>
+	<string>Profilbild</string>
+	<key>register_and_login.email</key>
+	<string>EMAIL</string>
+	<key>meditationview.favourite</key>
+	<string>favouriter</string>
+	<key>meditationview.med_downloaded</key>
+	<string>Meditation nedladdade</string>
+	<key>meditationview.gender</key>
+	<string>kön</string>
+	<key>meditationview.play</key>
+	<string>play</string>
+	<key>general.cancel</key>
+	<string>AVBRYT</string>
+	<key>register_and_login.password</key>
+	<string>lösenord</string>
+	<key>reminder_settings.session_per_day</key>
+	<string>Påminnelser per dag:</string>
+	<key>profileview.show_mail</key>
+	<string>VISA EMAIL</string>
+	<key>hud.downloading</key>
+	<string>Ladda ner...</string>
+	<key>register_and_login.password_mismatch</key>
+	<string>Lösenorden matchar inte</string>
+	<key>register_and_login.invalid_email</key>
+	<string>Var god ange giltig email</string>
+	<key>groupview.image_needed_for_group</key>
+	<string>För att gå med i en grupp behöver du en profilbild</string>
+	<key>meditationview.remove_item</key>
+	<string>Ta bort meditation</string>
+	<key>general.remove</key>
+	<string>ta bort</string>
+	<key>maditationview.man</key>
+	<string>Man</string>
+	<key>register_and_login.send_new_pass</key>
+	<string>spara nytt lösenord</string>
+	<key>reminder_settings.day_starts</key>
+	<string>DAGEN BÖRJAR</string>
+	<key>sidemenu.title.reminder_settings</key>
+	<string>Påminnelseinställningar</string>
+	<key>reminder_settings.daystart_smaller</key>
+	<string>Dagen slutar måste vara senare än dagen början</string>
+	<key>register_and_login.recovery</key>
+	<string>återställning</string>
+	<key>register_and_login.confirm_password</key>
+	<string>Bekräfta lösenord</string>
+	<key>meditationview.my_meditation</key>
+	<string>MINA MEDITATIONER</string>
+	<key>groupview.enter_group_code</key>
+	<string>Här anger du gruppkoden du har fått från Minds Unlimited eller Mindfulnessgruppen.</string>
+	<key>register_and_login.login_fb</key>
+	<string>logga in med facebook</string>
+	<key>profileview.profile_saved</key>
+	<string>Profil detaljer sparad</string>
+	<key>groupview.join</key>
+	<string>ok</string>
+	<key>about_us.like</key>
+	<string>Gilla</string>
+	<key>general.no_details</key>
+	<string>Inga detaljer tillgängliga</string>
+	<key>register_and_login.enter_password</key>
+	<string>Var god ange ett giltigt lösenord, lösenordet måste vara minst 4 tecken långt</string>
+</dict>
+</plist>
